@@ -1,0 +1,120 @@
+fileFormatVersion: 2
+guid: 9b1da23bd0272d049b8d35b0f5091bef
+ModelImporter:
+  serializedVersion: 15
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: ExtrToBrep_000000
+    100004: Frame_1_DC_Brep
+    100006: Frame_4_DC_Brep
+    100008: Frame_5_DC_Brep
+    100010: Mid_Frame_FCV_DC_Brep
+    100012: Surface_Loft_Container_DC_Brep
+    100014: Tray_Container_1_DC_Brep
+    100016: Tray_Container_2_DC_Brep
+    100018: Tray_Container_3_DC_Brep
+    100020: Water_Ballast_Tank_3_DC_Brep
+    100022: Water_Ballast_Tank_3_DC_Brep001
+    100024: Water_Ballast_Tank_5_DC_Brep
+    400000: //RootNode
+    400002: ExtrToBrep_000000
+    400004: Frame_1_DC_Brep
+    400006: Frame_4_DC_Brep
+    400008: Frame_5_DC_Brep
+    400010: Mid_Frame_FCV_DC_Brep
+    400012: Surface_Loft_Container_DC_Brep
+    400014: Tray_Container_1_DC_Brep
+    400016: Tray_Container_2_DC_Brep
+    400018: Tray_Container_3_DC_Brep
+    400020: Water_Ballast_Tank_3_DC_Brep
+    400022: Water_Ballast_Tank_3_DC_Brep001
+    400024: Water_Ballast_Tank_5_DC_Brep
+    2300000: ExtrToBrep_000000
+    2300002: Frame_1_DC_Brep
+    2300004: Frame_4_DC_Brep
+    2300006: Frame_5_DC_Brep
+    2300008: Mid_Frame_FCV_DC_Brep
+    2300010: Surface_Loft_Container_DC_Brep
+    2300012: Tray_Container_1_DC_Brep
+    2300014: Tray_Container_2_DC_Brep
+    2300016: Tray_Container_3_DC_Brep
+    2300018: Water_Ballast_Tank_3_DC_Brep
+    2300020: Water_Ballast_Tank_3_DC_Brep001
+    2300022: Water_Ballast_Tank_5_DC_Brep
+    3300000: ExtrToBrep_000000
+    3300002: Frame_1_DC_Brep
+    3300004: Frame_4_DC_Brep
+    3300006: Frame_5_DC_Brep
+    3300008: Mid_Frame_FCV_DC_Brep
+    3300010: Surface_Loft_Container_DC_Brep
+    3300012: Tray_Container_1_DC_Brep
+    3300014: Tray_Container_2_DC_Brep
+    3300016: Tray_Container_3_DC_Brep
+    3300018: Water_Ballast_Tank_3_DC_Brep
+    3300020: Water_Ballast_Tank_3_DC_Brep001
+    3300022: Water_Ballast_Tank_5_DC_Brep
+    4300000: ExtrToBrep_000000
+    4300002: Frame_1_DC_Brep
+    4300004: Frame_4_DC_Brep
+    4300006: Frame_5_DC_Brep
+    4300008: Mid_Frame_FCV_DC_Brep
+    4300010: Surface_Loft_Container_DC_Brep
+    4300012: Tray_Container_1_DC_Brep
+    4300014: Tray_Container_2_DC_Brep
+    4300016: Tray_Container_3_DC_Brep
+    4300018: Water_Ballast_Tank_3_DC_Brep
+    4300020: Water_Ballast_Tank_3_DC_Brep001
+    4300022: Water_Ballast_Tank_5_DC_Brep
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .100000001
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  userData: 
